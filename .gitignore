@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
